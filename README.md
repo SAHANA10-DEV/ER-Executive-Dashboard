@@ -1,16 +1,15 @@
-
 # 🏥 ER Executive Dashboard
 
 ## 📌 Project Overview
-The ER Executive Dashboard is an interactive web-based dashboard designed to visualize key Emergency Room (ER) performance metrics. It helps hospital executives monitor operational efficiency and make data-driven decisions.
+
+The ER Executive Dashboard is an interactive web application designed to visualize hospital emergency room performance using key performance indicators (KPIs), interactive charts, and responsive design.
 
 ## 🚀 Live Demo
-https://sahana10-dev.github.io/ER-Executive-Dashboard/
 
-## 💻 GitHub Repository
-https://github.com/SAHANA10-DEV/ER-Executive-Dashboard
+🌐 https://sahana10-dev.github.io/ER-Executive-Dashboard/
 
 ## 🛠️ Technologies Used
+
 - HTML5
 - CSS3
 - JavaScript
@@ -18,14 +17,33 @@ https://github.com/SAHANA10-DEV/ER-Executive-Dashboard
 - AI-assisted development
 
 ## ✨ Features
-- Executive KPI Cards
-- Interactive Charts
-- Responsive Dashboard
-- Hospital Analytics
-- Modern User Interface
 
-## 🎯 Purpose
-This project was developed as part of my Data Analytics portfolio to practice dashboard design, data visualization, and healthcare analytics.
+- Interactive KPI Cards
+- Monthly Visit Trends
+- Admission Outcome Analysis
+- Department Referrals
+- Patient Demographics
+- Hourly Arrival Pattern
+- Responsive Dashboard
+
+## 📷 Dashboard Preview
+
+### Dashboard Overview
+
+![Dashboard Overview](dashboard%20overview.png)
+
+### Monthly Trends
+
+![Monthly Trends](trends.png)
+
+### Patient Demographics
+
+![Demographics](Demographic.png)
+
+### Operations Dashboard
+
+![Operations](operation.png)
 
 ## 👩‍💻 Author
+
 **Sahana G N**
